@@ -46,3 +46,21 @@ Service
 Repository
     ↓
 MySQL
+
+## Tecnologías utilizadas
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Maven
+- Postman
+- Git
+- GitHub
+
+## Base de datos
+
+La base de datos utilizada en el proyecto es:
+
+```text
+modulo_ventas
